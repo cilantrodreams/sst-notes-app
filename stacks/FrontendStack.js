@@ -1,4 +1,4 @@
-import { ReactStaticSite } from "@serverless-stack/resources";
+import { ReactStaticSite, use } from "@serverless-stack/resources";
 import { ApiStack } from "./ApiStack";
 import { AuthStack } from "./AuthStack";
 import { StorageStack } from "./StorageStack";
